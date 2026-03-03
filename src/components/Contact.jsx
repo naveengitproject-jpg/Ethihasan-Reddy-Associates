@@ -40,8 +40,8 @@ const Contact = () => {
                                     <h4 className="text-lg font-bold text-gray-900 group-hover:text-primary-700 transition-colors">Visit Us</h4>
                                     <p className="mt-1 text-gray-600 leading-relaxed">
                                         Ethihasan Reddy & Associates<br />
-                                        F-142, R.T.P.P, V.V Reddy Nagar,<br />
-                                        Kadapa district, Pin- 560076
+                                        D No. 7/269, Holmespeta, Proddatur,<br />
+                                        516360, Kadapa Dist, A.P
                                     </p>
                                 </div>
                             </motion.div>
@@ -58,7 +58,7 @@ const Contact = () => {
                                 <div className="ml-6">
                                     <h4 className="text-lg font-bold text-gray-900 group-hover:text-primary-700 transition-colors">Call Us</h4>
                                     <p className="mt-1 text-gray-600 font-medium">
-                                        <a href="tel:+917382451357" className="hover:text-primary-600 transition-colors">+91 73824 51357</a>
+                                        <a href="tel:+917382451357" className="hover:text-primary-600 transition-colors">+91 738 245 1357</a>
                                     </p>
                                 </div>
                             </motion.div>
@@ -96,7 +96,7 @@ const Contact = () => {
                         <div className="bg-white p-2 rounded-3xl shadow-2xl relative z-10 h-[500px] border border-gray-100">
                             <iframe
                                 className="w-full h-full rounded-2xl"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15410.518784384975!2d78.43851532435555!3d14.502802773121556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb371bd90226487%3A0xe5f5439564177d0e!2sV%20V%20Reddy%20Nagar%2C%20Andhra%20Pradesh%20516312!5e0!3m2!1sen!2sin!4v1709400000000!5m2!1sen!2sin"
+                                src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=D%20No.%207/269,%20Holmespeta,%20Proddatur,%20516360,%20Kadapa%20Dist,%20A.P+(Ethihasan%20Reddy%20&%20Associates)&t=&z=15&ie=UTF8&iwloc=B&output=embed"
                                 style={{ border: 0 }}
                                 allowFullScreen=""
                                 loading="lazy"

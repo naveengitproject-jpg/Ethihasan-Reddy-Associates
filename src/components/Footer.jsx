@@ -30,9 +30,9 @@ const Footer = () => {
                     <div>
                         <h4 className="text-lg font-semibold mb-6 text-white">Contact Info</h4>
                         <div className="space-y-3">
-                            <p className="text-gray-400 text-sm">F-142, R.T.P.P, V.V Reddy Nagar</p>
-                            <p className="text-gray-400 text-sm">Kadapa district, 560076, AP</p>
-                            <p className="text-gray-400 text-sm mt-4 font-semibold text-white">+91 73824 51357</p>
+                            <p className="text-gray-400 text-sm">D No. 7/269, Holmespeta, Proddatur,</p>
+                            <p className="text-gray-400 text-sm">516360, Kadapa Dist, A.P</p>
+                            <p className="text-gray-400 text-sm mt-4 font-semibold text-white">+91 738 245 1357</p>
                             <p className="text-gray-400 text-sm">ethihasanreddyandassociates@gmail.com</p>
                         </div>
                     </div>
