@@ -30,8 +30,8 @@ const Footer = () => {
                     <div>
                         <h4 className="text-lg font-semibold mb-6 text-white">Contact Info</h4>
                         <div className="space-y-3">
-                            <p className="text-gray-400 text-sm">D No. 7/269, Holmespeta, Proddatur,</p>
-                            <p className="text-gray-400 text-sm">516360, Kadapa Dist, A.P</p>
+                            <p className="text-gray-400 text-sm">1st Floor, D, No 7-322, Holmes Pet Rd,</p>
+                            <p className="text-gray-400 text-sm">opp. Bank of Baroda, Ward 20, Holmus Pet,Proddatur, Andhra Pradesh 516310, India</p>
                             <p className="text-gray-400 text-sm mt-4 font-semibold text-white">+91 738 245 1357</p>
                             <p className="text-gray-400 text-sm">ethihasanreddyandassociates@gmail.com</p>
                         </div>

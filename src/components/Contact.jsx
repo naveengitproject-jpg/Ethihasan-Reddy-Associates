@@ -40,8 +40,9 @@ const Contact = () => {
                                     <h4 className="text-lg font-bold text-gray-900 group-hover:text-primary-700 transition-colors">Visit Us</h4>
                                     <p className="mt-1 text-gray-600 leading-relaxed">
                                         Ethihasan Reddy & Associates<br />
-                                        D No. 7/269, Holmespeta, Proddatur,<br />
-                                        516360, Kadapa Dist, A.P
+                                        1st Floor, D, No 7-322, Holmes Pet Rd,<br />
+                                        opp. Bank of Baroda, Ward 20, Holmus Pet,<br />
+                                        Proddatur, Andhra Pradesh 516310, India
                                     </p>
                                 </div>
                             </motion.div>
@@ -96,7 +97,7 @@ const Contact = () => {
                         <div className="bg-white p-2 rounded-3xl shadow-2xl relative z-10 h-[500px] border border-gray-100">
                             <iframe
                                 className="w-full h-full rounded-2xl"
-                                src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=D%20No.%207/269,%20Holmespeta,%20Proddatur,%20516360,%20Kadapa%20Dist,%20A.P+(Ethihasan%20Reddy%20&%20Associates)&t=&z=15&ie=UTF8&iwloc=B&output=embed"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3871.1234567890!2d78.552771!3d14.7521904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb479c60df4f29d%3A0x4d8cafba588c142b!2sEthihasan+Reddy+and+Associates!5e0!3m2!1sen!2sin!4v1711641600000"
                                 style={{ border: 0 }}
                                 allowFullScreen=""
                                 loading="lazy"
