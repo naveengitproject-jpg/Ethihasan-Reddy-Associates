@@ -97,7 +97,7 @@ const Contact = () => {
                         <div className="bg-white p-2 rounded-3xl shadow-2xl relative z-10 h-[500px] border border-gray-100">
                             <iframe
                                 className="w-full h-full rounded-2xl"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3871.1234567890!2d78.552771!3d14.7521904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb479c60df4f29d%3A0x4d8cafba588c142b!2sEthihasan+Reddy+and+Associates!5e0!3m2!1sen!2sin!4v1711641600000"
+                                src="https://maps.google.com/maps?q=Ethihasan+Reddy+and+Associates+Proddatur+Andhra+Pradesh&output=embed"
                                 style={{ border: 0 }}
                                 allowFullScreen=""
                                 loading="lazy"
