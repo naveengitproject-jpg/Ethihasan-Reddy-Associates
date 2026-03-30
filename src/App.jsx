@@ -6,6 +6,8 @@ import Gallery from './components/Gallery';
 import Sectors from './components/Sectors';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import { Wheat } from 'lucide-react';
+import WhatsAppButton from './components/WhatsAppButton';
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
         <Gallery />
         <Sectors />
         <Contact />
+        <WhatsAppButton />
       </main>
       <Footer />
     </div>
